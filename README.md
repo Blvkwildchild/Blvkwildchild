@@ -9,7 +9,7 @@ Copy the markdown below and update the placeholders with your personal informati
 
 # Hi there, I'm [Blvkwildchild]! 👋
 
-![Banner Image](https://github.com/Blvkwildchild/Blvkwildchild/blob/main/Banner%20Image)
+![Banner Image](https://github.com/Blvkwildchild/Blvkwildchild/commit/2de4928deb3abb4ec899f503531767ef6fe8d20f#r173483579)
 
 ## About Me 🚀
 
